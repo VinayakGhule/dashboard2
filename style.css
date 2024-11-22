@@ -50,6 +50,7 @@ body{
     background-color: #297272;
     background-color: #1a4146;
     color: beige;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
 }
 
 .sid-mid{
@@ -119,4 +120,5 @@ body{
 
 .sid div:hover{
     transform: scale(1.1);
+    box-shadow: 0 0 4px 4px  rgba(0, 70, 59, 0.32);
 }
